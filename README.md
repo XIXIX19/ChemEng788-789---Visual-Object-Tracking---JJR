@@ -5,11 +5,12 @@ For ChemEng788 Group Project
 2) Three folders 1)'Dataset'2)'Dataset/OTB100'3) 'Dataset/OTB50' are created
 3) All the datasets are unzipped manually to 'OTB50'(the first 49 datasets) and 'OTB100'(all datasets)
 4) The folder 'Dataset' is used to store these files
-5) The 'Preprocessing01, 02, 03.py' are appiled to delete some unnecessary or wrong files
-6) The 'Datapreparing.py' is applied to make each frame in each video to the input size for feature extraction
-7) The 'Datageneration.py' is applied to store the inputs into the pkl files
-8) The 'SiameseFC_train.py' is applied to train the model to extract features of the object
-9) The 'log_i_j%' folders store the training result
+5) The filepath in these files need to be changed according to users
+6) The 'Preprocessing01, 02, 03.py' are appiled to delete some unnecessary or wrong files
+7) The 'Datapreparing.py' is applied to make each frame in each video to the input size for feature extraction
+8) The 'Datageneration.py' is applied to store the inputs into the pkl files
+9) The 'SiameseFC_train.py' is applied to train the model to extract features of the object
+10) The 'log_i_j%' folders store the training result
 11) The 'Tracking.py' is applied to track the object based on the training result
 12) The 'Tracking_demo.py' is applied to visualize the tracking result
 
