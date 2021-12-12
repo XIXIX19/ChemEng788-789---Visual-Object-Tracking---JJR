@@ -14,9 +14,9 @@ For ChemEng788 Group Project
 12) The 'Tracking_demo.py' is applied to visualize the tracking result
 
 Reference:
-Wang, L., Ouyang, W., Wang, X., & Lu, H. (2015). Visual tracking with fully convolutional networks. In Proceedings of the IEEE international conference on computer vision (pp. 3119-3127).
+1) Wang, L., Ouyang, W., Wang, X., & Lu, H. (2015). Visual tracking with fully convolutional networks. In Proceedings of the IEEE international conference on computer vision (pp. 3119-3127).
 Code Reference
-https://github.com/mozhuangb/SiameseFC-pytorch
-https://github.com/huanglianghua/siamfc-pytorch
-https://github.com/iandreariley/Keras-Siamese-FC
-https://github.com/torrvision/siamfc-tf
+1) https://github.com/mozhuangb/SiameseFC-pytorch
+2) https://github.com/huanglianghua/siamfc-pytorch
+3) https://github.com/iandreariley/Keras-Siamese-FC
+4) https://github.com/torrvision/siamfc-tf
